@@ -1,41 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FoorFoot Portfolio</title>
-    <link>http://foorfoot.github.io/</link>
-    <description>Recent content on FoorFoot Portfolio</description>
+    <title>Projects on FoorFoot Portfolio</title>
+    <link>http://foorfoot.github.io/project/</link>
+    <description>Recent content in Projects on FoorFoot Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>fourfootstudios@protonmail.com (FoorFoot)</managingEditor>
     <webMaster>fourfootstudios@protonmail.com (FoorFoot)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 16 Feb 2020 17:45:35 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 18:12:01 +0100</lastBuildDate>
     
-        <atom:link href="http://foorfoot.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://foorfoot.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     
-      
-      <item>
-        <title>Me</title>
-        <link>http://foorfoot.github.io/about/me/</link>
-        <pubDate>Sun, 16 Feb 2020 17:45:35 +0100</pubDate>
-        <author>fourfootstudios@protonmail.com (FoorFoot)</author>
-        <guid>http://foorfoot.github.io/about/me/</guid>
-        <description>Hi,
-I&amp;rsquo;m Foor Foot. I&amp;rsquo;m a programmer. Programming languages I know are: C#, C++, Java and a bit of Python.
-I mainly develop micro controller projects using Arduino as well as projects with Raspberry Pi. Other than that, I make PC and mobile games using a game engine called Unity.
-I use C# with Unity to develop PC and Mobile (Android) games. As of right now, I&amp;rsquo;ve only released games I made for mobile on Google Play.</description>
-      </item>
-      
-      <item>
-        <title>Contact Foor Foot</title>
-        <link>http://foorfoot.github.io/contact/me/</link>
-        <pubDate>Sat, 15 Feb 2020 23:20:27 +0100</pubDate>
-        <author>fourfootstudios@protonmail.com (FoorFoot)</author>
-        <guid>http://foorfoot.github.io/contact/me/</guid>
-        <description></description>
-      </item>
       
       <item>
         <title>Arduino Smartwatch</title>

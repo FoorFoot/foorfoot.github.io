@@ -3,11 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://foorfoot.github.io/categories/</loc>
+    <loc>http://foorfoot.github.io/about/</loc>
+    <lastmod>2020-02-16T17:45:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://foorfoot.github.io/</loc>
+    <lastmod>2020-02-16T17:45:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://foorfoot.github.io/about/me/</loc>
+    <lastmod>2020-02-16T17:45:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://foorfoot.github.io/contact/me/</loc>
+    <lastmod>2020-02-15T23:20:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://foorfoot.github.io/contact/</loc>
+    <lastmod>2020-02-15T23:20:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://foorfoot.github.io/project/arduinosmartwatch/</loc>
+    <lastmod>2019-03-25T18:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://foorfoot.github.io/project/</loc>
+    <lastmod>2019-03-25T18:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://foorfoot.github.io/project/sketchhero/</loc>
+    <lastmod>2018-10-13T18:37:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://foorfoot.github.io/categories/</loc>
   </url>
   
   <url>

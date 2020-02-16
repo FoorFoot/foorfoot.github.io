@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on FoorFoot Portfolio</title>
+    <link>http://foorfoot.github.io/about/</link>
+    <description>Recent content in Abouts on FoorFoot Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>fourfootstudios@protonmail.com (FoorFoot)</managingEditor>
+    <webMaster>fourfootstudios@protonmail.com (FoorFoot)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 17:45:35 +0100</lastBuildDate>
+    
+        <atom:link href="http://foorfoot.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Me</title>
+        <link>http://foorfoot.github.io/about/me/</link>
+        <pubDate>Sun, 16 Feb 2020 17:45:35 +0100</pubDate>
+        <author>fourfootstudios@protonmail.com (FoorFoot)</author>
+        <guid>http://foorfoot.github.io/about/me/</guid>
+        <description>Hi,
+I&amp;rsquo;m Foor Foot. I&amp;rsquo;m a programmer. Programming languages I know are: C#, C++, Java and a bit of Python.
+I mainly develop micro controller projects using Arduino as well as projects with Raspberry Pi. Other than that, I make PC and mobile games using a game engine called Unity.
+I use C# with Unity to develop PC and Mobile (Android) games. As of right now, I&amp;rsquo;ve only released games I made for mobile on Google Play.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
