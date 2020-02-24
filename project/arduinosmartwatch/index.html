@@ -1339,6 +1339,8 @@
             
             <a href="/project/awakensentinel" class="navbar__dropdown--item" dir="ltr">Awaken Sentinel</a>        
             
+            <a href="/project/oneroomsurvival" class="navbar__dropdown--item" dir="ltr">One Room Survival</a>        
+            
             <a href="/project/progression" class="navbar__dropdown--item" dir="ltr">Progression</a>        
             
             <a href="/project/sketchhero" class="navbar__dropdown--item" dir="ltr">Sketch Hero</a>        
@@ -1423,10 +1425,10 @@
       
       <p>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;<em><strong>DISCONTINUED</strong></em>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>
 <p>For the past 2 weeks, I&rsquo;ve been working on a smartwatch project using my Arduino Pro Mini 3.3v (<em>ATMEGA328P @ 8Mhz</em>). <br />
-My intention is that my smartwatch will connect to my phone and then receive all the data such as time information, notification from it. As it also receives time information, it does not need a RTC (<em>Real Time Clock</em>), benefitting the size of the smartwatch.</p>
-<p>For the bluetooth module, I used HM-10 clone, which is a BLE(<em>Bluetooth Low Energy</em>) module. During the development process, I realized one unfortunate thing. My HM-10 clone <em>ONLY</em> supported BLE. Any legacy bluetooth connection technology was unsupported. Therefore, I had to create myself an app just to connect to my device and send information. (I was going to make an app for my smartwatch anyway, but process of developing an app was a bit harder since there wasn&rsquo;t a lot of tutorials on how to connect to a BLE device using Android Studio online.) <br />
-There is a HM-10 firmware update, which would allow legacy bluetooth technology, but because of the fact that I have the clone HM-10, it didn&rsquo;t work. Other than that, I used an 128x64 OLED display (SSD1306), vibrator (vibration motor), a push button for executing simple task within the watch (turning the screen on when it&rsquo;s in sleep to check time, etc.), a switch to power the device on, an apple watch 4 wrist band/case for the casing and 150mah 3.7v battery for powering the whole device.</p>
-<p>For the case I just purchased an Apple Watch (I&rsquo;m not sure what series but the biggest one 140mm xD) case. I had to take the back off, though. My watch was too thick. I had to make my own lid, which I did with some cheap fabric (which I got from a dollar store) and I wrapped it around with electrical tape.</p>
+My intention is my smartwatch will connect to my phone and receive all the useful information such as time, notification and messages. Because it uses the time from my mobile phone, it does not need a separate RTC (<em>Real Time Clock</em>), benefitting the size of the smartwatch. I also don&rsquo;t have to replace the battery of RTC.</p>
+<p>For the Bluetooth module, I used HM-10 clone which is a BLE(<em>Bluetooth Low Energy</em>) module. During the development process, I realized one unfortunate thing. My HM-10 clone <em>ONLY</em> supported BLE. Any legacy Bluetooth connection technology was unsupported. Therefore, I had to create an app just to connect to my device and send information. (I was going to make an app for my smartwatch anyway, but the process of developing an app was a bit harder since there weren&rsquo;t a lot of tutorials on how to connect to a BLE device using Android Studio online.) <br />
+There is a HM-10 firmware update, which would allow legacy Bluetooth technology, but because I have the clone HM-10, it didn&rsquo;t work. Other than that, I used an 128x64 OLED display (SSD1306), vibrator (vibration motor), a push-button for executing simple task within the watch (turning the screen on when it&rsquo;s in sleep to check time, etc.), a switch to power the device on, an apple watch 4 wrist band/case for the casing and 150mah 3.7v battery for powering the whole device.</p>
+<p>For the case, I just purchased an Apple Watch (I&rsquo;m not sure what series but the biggest one 140mm xD) case. I had to take the back off, though. My watch was too thick. I had to make my lid, which I did with some cheap fabric (which I got from a dollar store) and I wrapped it around with the electrical tape.</p>
 <p>I&rsquo;ve already got the time working correctly as well as it notifies me when I receive a notification in my phone (although it doesn&rsquo;t display from which app the notification was sent from, nor the details of the notification). Here&rsquo;s a quick demo of my smartwatch:<br />
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -1434,10 +1436,10 @@ There is a HM-10 firmware update, which would allow legacy bluetooth technology,
 </div>
 <br />
 (yes I know, I changed google accounts several times xD I&rsquo;m JCN)</p>
-<p>I&rsquo;m still undone with my smartwatch and I&rsquo;ll still improve the software and battery life as it doesn&rsquo;t last long (according to my calculations, around half a week). I&rsquo;m also planning a smartwatch v2, which would use ATTiny85 as the smartwatch I made turned out to be wayy too &ldquo;fat&rdquo;. Haha. But that won&rsquo;t happen in the near future.</p>
+<p>I&rsquo;m still undone with my smartwatch and I&rsquo;ll still improve the software and battery life as it doesn&rsquo;t last long (according to my calculations, around half a week). I&rsquo;m also planning a smartwatch v2, which would use ATTiny85, as the smartwatch I made turned out to be way too &ldquo;fat&rdquo;. Haha. But that won&rsquo;t happen shortly.</p>
 <p>EDIT:<br />
 Hey, future me here.<br />
-This project is discontinued! I was facing a lot of issues during the development. Obviously they could&rsquo;ve been solved, but that caused me to buy new parts, because while I was putting everything back together after I made some micro adjustments, I accidentally touched parts that I shouldn&rsquo;t have and physically broke them. I realized I was spending way to much money on a smartwatch project. I was also busy with high school exams and so on and&hellip; to be honest, I was just not motivated enough after that.<br />
+This project is discontinued! I was facing a lot of issues during development. They could&rsquo;ve been solved, but that caused me to buy new parts, because while I was putting everything back together after I made some micro-adjustments, I accidentally touched parts that I shouldn&rsquo;t have and physically broke them. I realized I was spending way to much money on a smartwatch project. I was also busy with high school exams and so on and&hellip; to be honest, I was just not motivated enough after that.<br />
 However, I&rsquo;m considering to bring this project back to life again! I&rsquo;ll post an update when I decide.</p>
 
     </article>

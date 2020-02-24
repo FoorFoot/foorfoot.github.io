@@ -54,8 +54,7 @@ I use C# with Unity to develop PC and Mobile (Android) games. As of right now, I
         <author>fourfootstudios@protonmail.com (FoorFoot)</author>
         <guid>http://foorfoot.github.io/project/arduinosmartwatch/</guid>
         <description>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;DISCONTINUED&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
-For the past 2 weeks, I&amp;rsquo;ve been working on a smartwatch project using my Arduino Pro Mini 3.3v (ATMEGA328P @ 8Mhz). My intention is that my smartwatch will connect to my phone and then receive all the data such as time information, notification from it. As it also receives time information, it does not need a RTC (Real Time Clock), benefitting the size of the smartwatch.
-For the bluetooth module, I used HM-10 clone, which is a BLE(Bluetooth Low Energy) module.</description>
+For the past 2 weeks, I&amp;rsquo;ve been working on a smartwatch project using my Arduino Pro Mini 3.3v (ATMEGA328P @ 8Mhz). My intention is my smartwatch will connect to my phone and receive all the useful information such as time, notification and messages. Because it uses the time from my mobile phone, it does not need a separate RTC (Real Time Clock), benefitting the size of the smartwatch. I also don&amp;rsquo;t have to replace the battery of RTC.</description>
       </item>
       
       <item>
@@ -66,7 +65,7 @@ For the bluetooth module, I used HM-10 clone, which is a BLE(Bluetooth Low Energ
         <guid>http://foorfoot.github.io/project/sketchhero/</guid>
         <description>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;DISCONTINUED&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
 Sketch Hero is my first Unity Android game project that I published to Google Play store which I worked for around a year.
-I spent a lot of time developing this game and I&amp;rsquo;m really satisfied how it turned out. I made this game to see how well I know about Unity.
+I spent a lot of time developing this game and I&amp;rsquo;m really satisfied with how it turned out. I made this game to see how well I know about Unity.
 Sketch Hero is an endless runner, which means the player plays the game endlessly while trying to achieve the highest score possible.</description>
       </item>
       
@@ -78,7 +77,7 @@ Sketch Hero is an endless runner, which means the player plays the game endlessl
         <guid>http://foorfoot.github.io/project/awakensentinel/</guid>
         <description>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;DISCONTINUED&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
 Keep in mind I&amp;rsquo;m writing this a year after I stopped making this game. I didn&amp;rsquo;t bother with portfolio or whatsoever back then.
-Awaken Sentinel is the first game that I started making seriously on Unity game engine. It&amp;rsquo;s a multiplier FPS with open world aspects. I can&amp;rsquo;t provide any further information to the game, nor the story, as the whole project started just because I wanted to learn something and I didn&amp;rsquo;t plan on publishing at all/have the finished product.</description>
+Awaken Sentinel is the first game that I started making seriously on Unity game engine. It&amp;rsquo;s a multiplier FPS with open-world aspects. I can&amp;rsquo;t provide any further information to the game, nor the story, as the whole project started just because I wanted to learn something and I didn&amp;rsquo;t plan on publishing at all/have the finished product.</description>
       </item>
       
     
