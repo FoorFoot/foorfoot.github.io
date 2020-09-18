@@ -9,12 +9,33 @@
     <managingEditor>fourfootstudios@protonmail.com (FoorFoot)</managingEditor>
     <webMaster>fourfootstudios@protonmail.com (FoorFoot)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 10 Jun 2020 21:17:24 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 15:18:30 +0100</lastBuildDate>
     
         <atom:link href="http://foorfoot.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Scattered</title>
+        <link>http://foorfoot.github.io/project/scattered/</link>
+        <pubDate>Fri, 18 Sep 2020 15:18:30 +0100</pubDate>
+        <author>fourfootstudios@protonmail.com (FoorFoot)</author>
+        <guid>http://foorfoot.github.io/project/scattered/</guid>
+        <description>For only 5 days, I worked on an entry for &amp;ldquo;Dani&amp;rsquo;s basement Jam&amp;rdquo;
+(https://itch.io/jam/danis-discord-server-jam). Total 93 entries were made to this game jam and 711 ratings in total. This game jam is hosted by a YouTuber called Dani. As he didn&amp;rsquo;t publicly announce this game jam on his YouTube channel, there weren&amp;rsquo;t a lot of participants. I used Unity game engine to make Scattered. For pixel arts and animations, I used Piskel.</description>
+      </item>
+      
+      <item>
+        <title>Progression</title>
+        <link>http://foorfoot.github.io/project/replay/</link>
+        <pubDate>Thu, 13 Aug 2020 20:51:35 +0100</pubDate>
+        <author>fourfootstudios@protonmail.com (FoorFoot)</author>
+        <guid>http://foorfoot.github.io/project/replay/</guid>
+        <description>For the past two weeks, I worked on an entry for &amp;ldquo;Brackeys Game Jam 2020.2&amp;rdquo; (https://itch.io/jam/brackeys-4). This is a bigger game jam that&amp;rsquo;s hosted by a YouTuber named &amp;ldquo;Brackeys&amp;rdquo;. I used Unity game engine to make a game in two weeks based on an announced theme, &amp;ldquo;Rewind&amp;rdquo;.
+The following YouTube video explains how the submission went:
+  </description>
+      </item>
       
       <item>
         <title>Protect The Sandcastle</title>
@@ -63,7 +84,8 @@ I use C# with Unity to develop PC and Mobile (Android) games. As of right now, I
         <author>fourfootstudios@protonmail.com (FoorFoot)</author>
         <guid>http://foorfoot.github.io/project/arduinosmartwatch/</guid>
         <description>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;DISCONTINUED&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
-For the past 2 weeks, I&amp;rsquo;ve been working on a smartwatch project using my Arduino Pro Mini 3.3v (ATMEGA328P @ 8Mhz). My intention is my smartwatch will connect to my phone and receive all the useful information such as time, notification and messages. Because it uses the time from my mobile phone, it does not need a separate RTC (Real Time Clock), benefitting the size of the smartwatch. I also don&amp;rsquo;t have to replace the battery of RTC.</description>
+For the past 2 weeks, I&amp;rsquo;ve been working on a smartwatch project using my Arduino Pro Mini 3.3v (ATMEGA328P @ 8Mhz).
+My intention is my smartwatch will connect to my phone and receive all the useful information such as time, notification and messages. Because it uses the time from my mobile phone, it does not need a separate RTC (Real Time Clock), benefitting the size of the smartwatch. I also don&amp;rsquo;t have to replace the battery of RTC.</description>
       </item>
       
       <item>
